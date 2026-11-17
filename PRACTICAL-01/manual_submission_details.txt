@@ -1,0 +1,51 @@
+========================================================================
+PRACTICAL 01: GitHub Setup and C++ Fundamentals
+SUBMISSION / EVIDENCE DETAILS
+========================================================================
+
+Student Name : Shravanee Potdar
+Course       : B.Tech (Artificial Intelligence & Data Science) - 2nd Year
+Subject      : Object Oriented Programming (OOPs Lab)
+GitHub Link  : https://github.com/itsshvee/Cpp-Practicals
+
+------------------------------------------------------------------------
+1. SAMPLE INPUT:
+------------------------------------------------------------------------
+Enter Student Name: Shravanee Potdar
+Enter Roll Number: 101
+Enter marks for Subject 1 (out of 100): 88.5
+Enter marks for Subject 2 (out of 100): 92.0
+Enter marks for Subject 3 (out of 100): 85.5
+
+------------------------------------------------------------------------
+2. SAMPLE OUTPUT:
+------------------------------------------------------------------------
+========================================
+  Student Performance Evaluation System  
+========================================
+Enter Student Name: Shravanee Potdar
+Enter Roll Number: 101
+Enter marks for Subject 1 (out of 100): 88.5
+Enter marks for Subject 2 (out of 100): 92.0
+Enter marks for Subject 3 (out of 100): 85.5
+
+----------------------------------------
+             REPORT CARD                
+----------------------------------------
+Student Name : Shravanee Potdar
+Roll Number  : 101
+Subject 1    : 88.50 / 100
+Subject 2    : 92.00 / 100
+Subject 3    : 85.50 / 100
+Total Marks  : 266.00 / 300
+Average      : 88.67%
+Grade        : A
+Result       : PASSED
+----------------------------------------
+
+------------------------------------------------------------------------
+3. RESULT / OBSERVATION (Fill in your manual blank space):
+------------------------------------------------------------------------
+The basic syntax of C++, including primitive data types (int, float, char, bool, string), constants (const), standard console I/O streams (cin, cout), arithmetic operators (+, /), relational operators (>=, <), and logical operators (&&), was implemented and validated successfully through a student evaluation program. The project was version-controlled and pushed to GitHub.
+
+========================================================================

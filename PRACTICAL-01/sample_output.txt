@@ -1,0 +1,17 @@
+========================================
+  Student Performance Evaluation System  
+========================================
+Enter Student Name: Enter Roll Number: Enter marks for Subject 1 (out of 100): Enter marks for Subject 2 (out of 100): Enter marks for Subject 3 (out of 100): 
+----------------------------------------
+             REPORT CARD                
+----------------------------------------
+Student Name : Shravanee Potdar
+Roll Number  : 101
+Subject 1    : 88.50 / 100
+Subject 2    : 92.00 / 100
+Subject 3    : 85.50 / 100
+Total Marks  : 266.00 / 300
+Average      : 88.67%
+Grade        : A
+Result       : PASSED
+----------------------------------------
